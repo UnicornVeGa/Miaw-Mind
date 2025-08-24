@@ -1,0 +1,129 @@
+/* 
+  Localizable.strings
+  Miaw Mind
+
+  Created by Cinthya Vélez Grande on 23/08/25.
+  
+*/
+
+/* Categorías */
+"category.0" = "¡Adopta un gatito!";
+"category.1" = "Comida y premios";
+"category.2" = "Juguetes";
+"category.3" = "Salud e Higiene";
+"category.4" = "Decoración";
+
+/* Productos */
+
+// Categoría 0: ¡Adopta un gatito!
+"product.0.name" = "Gatito pardo";
+"product.0.desc" = "Un adorable gatito de pelaje marrón claro y ojos dulces.";
+
+"product.1.name" = "Gatito persa";
+"product.1.desc" = "Pelaje largo y esponjoso, ideal para quienes aman acariciar.";
+
+"product.2.name" = "Gatito egipcio";
+"product.2.desc" = "Elegante, con un aire misterioso y orejas puntiagudas.";
+
+"product.3.name" = "Gatito naranjoso";
+"product.3.desc" = "Cariñoso y juguetón, con un pelaje naranja vibrante.";
+
+"product.4.name" = "Gatito negro";
+"product.4.desc" = "Misterioso pero leal, perfecto para noches de ternura.";
+
+"product.5.name" = "Gatito siamés";
+"product.5.desc" = "Inteligente y comunicativo, con ojos azules brillantes.";
+
+
+// Categoría 1: Comida y premios
+"product.6.name" = "Croquetas";
+"product.6.desc" = "Alimento balanceado para mantener saludable a tu gatito.";
+
+"product.7.name" = "Croquetas premium";
+"product.7.desc" = "Receta de alta calidad con ingredientes seleccionados.";
+
+"product.8.name" = "Salmón";
+"product.8.desc" = "Un premio delicioso y nutritivo para consentirlo.";
+
+"product.9.name" = "Catnip";
+"product.9.desc" = "Hierba que estimula y alegra a tu gatito.";
+
+"product.10.name" = "Churus";
+"product.10.desc" = "Snack cremoso que fortalece el vínculo con tu mascota.";
+
+
+// Categoría 2: Juguetes
+"product.11.name" = "Ratón";
+"product.11.desc" = "Juguete clásico para despertar su instinto cazador.";
+
+"product.12.name" = "Pelota";
+"product.12.desc" = "Pelota ligera para horas de diversión.";
+
+"product.13.name" = "Rascador";
+"product.13.desc" = "Accesorio esencial para cuidar sus uñas y tu sofá.";
+
+"product.14.name" = "Caña con plumas";
+"product.14.desc" = "Perfecta para jugar y ejercitar a tu gatito.";
+
+
+// Categoría 3: Salud e higiene
+"product.15.name" = "Vacuna";
+"product.15.desc" = "Protege la salud de tu gatito contra enfermedades.";
+
+"product.16.name" = "Medicina";
+"product.16.desc" = "Tratamiento especial para cuando tu gatito no se sienta bien.";
+
+"product.17.name" = "Shampoo";
+"product.17.desc" = "Suave y seguro para mantener su pelaje limpio y brillante.";
+
+"product.18.name" = "Perfume";
+"product.18.desc" = "Fragancia ligera para que siempre huela fresco.";
+
+"product.19.name" = "Cepillo";
+"product.19.desc" = "Mantén su pelaje desenredado y sin bolas de pelo.";
+
+
+// Categoría 4: Decoración
+"product.20.name" = "Cama";
+"product.20.desc" = "Cómoda y acolchada para que tu gatito descanse.";
+
+"product.21.name" = "Plato";
+"product.21.desc" = "De cerámica con diseño elegante y fácil de limpiar.";
+
+"product.22.name" = "Casa";
+"product.22.desc" = "Un espacio propio para que juegue y se esconda.";
+
+"product.23.name" = "Planta";
+"product.23.desc" = "Decoración amigable y segura para gatitos.";
+
+"product.24.name" = "Wallpaper";
+"product.24.desc" = "Personaliza el espacio virtual con fondos únicos.";
+
+// Botones productos:
+"button.buy" = "Comprar";
+"button.return" = "Regresar";
+
+// Alert titles and messages
+"alert.confirm_title" = "Confirma por favor";
+"alert.confirm_message" = "¿Estás seguro que deseas comprar el producto?";
+
+// Alert buttons
+"alert.ok" = "¡Sí lo quiero!";
+"alert.cancel" = "Cancelar";
+
+"welcome.store" = "¡Bienvenido a la tiendita!";
+
+// My Kittens Section
+"mykittens.welcome" = "¡Bienvenido a Miaw Mind!";
+"mykittens.description" = "En esta sección se encontrarán todos los gatitos que ha adoptado el usuario, y podrá cuidarlos e interactuar con ellos.";
+"mykittens.baritem" = "Mis gatitos";
+
+// Games Section
+"games.title" = "¡Juguemos!";
+"games.description" = "En esta sección se encontrará el catálogo de mini juegos disponibles, con los que se podrán ganar monedas a través de puntajes.";
+"games.baritem" = "¡Juguemos!";
+
+// Profile Section
+"profile.title" = "Mi perfil";
+"profile.description" = "En este espacio el usuario puede consultar las estadísticas de sus partidas, como tiempos, aciertos, y puntajes. Además, podrá realizar configuraciones específicas de la aplicación y de su perfil.";
+"profile.baritem" = "Mi perfil";

@@ -1,0 +1,122 @@
+/* 
+  Localizable.strings
+  Miaw Mind
+
+  Created by Cinthya Vélez Grande on 23/08/25.
+  
+*/
+
+/* Catégories */
+"category.0" = "Adoptez un chaton !";
+"category.1" = "Nourriture et friandises";
+"category.2" = "Jouets";
+"category.3" = "Santé et hygiène";
+"category.4" = "Décoration";
+
+/* Produits */
+
+// Catégorie 0 : Adoptez un chaton !
+"product.0.name" = "Chaton brun";
+"product.0.desc" = "Un adorable chaton au pelage brun clair et aux yeux doux.";
+
+"product.1.name" = "Chaton persan";
+"product.1.desc" = "Pelage long et moelleux, idéal pour ceux qui aiment caresser.";
+
+"product.2.name" = "Chaton égyptien";
+"product.2.desc" = "Élégant, avec un air mystérieux et des oreilles pointues.";
+
+"product.3.name" = "Chaton orange";
+"product.3.desc" = "Affectueux et joueur, avec un pelage orange éclatant.";
+
+"product.4.name" = "Chaton noir";
+"product.4.desc" = "Mystérieux mais loyal, parfait pour des nuits pleines de tendresse.";
+
+"product.5.name" = "Chaton siamois";
+"product.5.desc" = "Intelligent et communicatif, avec des yeux bleus brillants.";
+
+// Catégorie 1 : Nourriture et friandises
+"product.6.name" = "Croquettes";
+"product.6.desc" = "Aliment équilibré pour garder votre chaton en bonne santé.";
+
+"product.7.name" = "Croquettes premium";
+"product.7.desc" = "Recette de haute qualité avec des ingrédients sélectionnés.";
+
+"product.8.name" = "Saumon";
+"product.8.desc" = "Une friandise délicieuse et nutritive pour le gâter.";
+
+"product.9.name" = "Herbe à chat";
+"product.9.desc" = "Plante qui stimule et réjouit votre chaton.";
+
+"product.10.name" = "Churus";
+"product.10.desc" = "Snack crémeux qui renforce le lien avec votre animal.";
+
+// Catégorie 2 : Jouets
+"product.11.name" = "Souris";
+"product.11.desc" = "Jouet classique pour éveiller son instinct de chasseur.";
+
+"product.12.name" = "Balle";
+"product.12.desc" = "Balle légère pour des heures de divertissement.";
+
+"product.13.name" = "Griffoir";
+"product.13.desc" = "Accessoire essentiel pour prendre soin de ses griffes et de votre canapé.";
+
+"product.14.name" = "Canne à plumes";
+"product.14.desc" = "Parfaite pour jouer et faire exercer votre chaton.";
+
+// Catégorie 3 : Santé et hygiène
+"product.15.name" = "Vaccin";
+"product.15.desc" = "Protège la santé de votre chaton contre les maladies.";
+
+"product.16.name" = "Médicament";
+"product.16.desc" = "Traitement spécial pour lorsque votre chaton ne se sent pas bien.";
+
+"product.17.name" = "Shampooing";
+"product.17.desc" = "Doux et sûr pour garder son pelage propre et brillant.";
+
+"product.18.name" = "Parfum";
+"product.18.desc" = "Parfum léger pour qu'il sente toujours frais.";
+
+"product.19.name" = "Brosse";
+"product.19.desc" = "Gardez son pelage démêlé et sans boules de poils.";
+
+// Catégorie 4 : Décoration
+"product.20.name" = "Lit";
+"product.20.desc" = "Confortable et rembourré pour que votre chaton se repose.";
+
+"product.21.name" = "Assiette";
+"product.21.desc" = "En céramique avec un design élégant et facile à nettoyer.";
+
+"product.22.name" = "Maison";
+"product.22.desc" = "Un espace personnel pour jouer et se cacher.";
+
+"product.23.name" = "Plante";
+"product.23.desc" = "Décoration sûre et adaptée aux chatons.";
+
+"product.24.name" = "Fond d'écran";
+"product.24.desc" = "Personnalisez l'espace virtuel avec des fonds uniques.";
+
+"button.buy" = "Acheter";
+"button.return" = "Retour";
+
+"alert.confirm_title" = "Veuillez confirmer";
+"alert.confirm_message" = "Êtes-vous sûr de vouloir acheter ce produit ?";
+"alert.ok" = "Oui, je le veux !";
+"alert.cancel" = "Annuler";
+
+"welcome.store" = "Bienvenue dans notre petite boutique!";
+
+
+// My Kittens Section
+"mykittens.welcome" = "Bienvenue sur Miaw Mind !";
+"mykittens.description" = "Dans cette section, vous trouverez tous les chatons que vous avez adoptés. Prenez soin d’eux et interagissez avec eux.";
+"mykittens.baritem" = "Mes chatons";
+
+// Games Section
+"games.title" = "Jouons !";
+"games.description" = "Ici, vous trouverez un catalogue de mini-jeux pour gagner des pièces grâce à vos scores.";
+"games.baritem" = "Jouer !";
+
+// Profile Section
+"profile.title" = "Mon profil";
+"profile.description" = "Consultez vos statistiques de jeu comme le temps, la précision et les scores. Vous pouvez aussi configurer l’application et votre profil ici.";
+"profile.baritem" = "Profil";

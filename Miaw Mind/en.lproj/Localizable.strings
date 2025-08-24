@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  Miaw Mind
+
+  Created by Cinthya Vélez Grande on 23/08/25.
+  
+*/
+
+/* Categories */
+"category.0" = "Adopt a Kitten!";
+"category.1" = "Food & Treats";
+"category.2" = "Toys";
+"category.3" = "Health & Hygiene";
+"category.4" = "Decor";
+
+/* Products */
+
+// Category 0: Adopt a Kitten!
+"product.0.name" = "Brown Kitten";
+"product.0.desc" = "A sweet little brown kitten with soft fur and gentle eyes.";
+
+"product.1.name" = "Persian Kitten";
+"product.1.desc" = "Fluffy and long-haired, perfect for cuddle lovers.";
+
+"product.2.name" = "Egyptian Kitten";
+"product.2.desc" = "Elegant and mysterious, with striking pointed ears.";
+
+"product.3.name" = "Orange Kitten";
+"product.3.desc" = "Playful and affectionate, with a vibrant orange coat.";
+
+"product.4.name" = "Black Kitten";
+"product.4.desc" = "Mysterious yet loyal, perfect for cozy nights.";
+
+"product.5.name" = "Siamese Kitten";
+"product.5.desc" = "Smart and talkative, with bright blue eyes.";
+
+// Category 1: Food & Treats
+"product.6.name" = "Kibble";
+"product.6.desc" = "Balanced food to keep your kitten healthy and happy.";
+
+"product.7.name" = "Premium Kibble";
+"product.7.desc" = "High-quality recipe made with carefully selected ingredients.";
+
+"product.8.name" = "Salmon Treat";
+"product.8.desc" = "A tasty and nutritious reward your kitten will love.";
+
+"product.9.name" = "Catnip";
+"product.9.desc" = "A fun herb that stimulates and delights your kitten.";
+
+"product.10.name" = "Churu Snack";
+"product.10.desc" = "Creamy treat to strengthen the bond with your furry friend.";
+
+// Category 2: Toys
+"product.11.name" = "Toy Mouse";
+"product.11.desc" = "Classic toy to bring out your kitten’s hunting instincts.";
+
+"product.12.name" = "Ball";
+"product.12.desc" = "Lightweight ball for endless playtime fun.";
+
+"product.13.name" = "Scratching Post";
+"product.13.desc" = "Essential accessory to keep claws healthy and furniture safe.";
+
+"product.14.name" = "Feather Wand";
+"product.14.desc" = "Perfect for interactive play and exercise.";
+
+// Category 3: Health & Hygiene
+"product.15.name" = "Vaccine";
+"product.15.desc" = "Protects your kitten from common diseases.";
+
+"product.16.name" = "Medicine";
+"product.16.desc" = "Special treatment for when your kitten isn’t feeling well.";
+
+"product.17.name" = "Shampoo";
+"product.17.desc" = "Gentle and safe to keep your kitten’s coat clean and shiny.";
+
+"product.18.name" = "Perfume";
+"product.18.desc" = "Light fragrance to keep your kitten smelling fresh.";
+
+"product.19.name" = "Brush";
+"product.19.desc" = "Keep fur smooth, tangle-free, and healthy.";
+
+// Category 4: Decor
+"product.20.name" = "Bed";
+"product.20.desc" = "Soft and comfy for the perfect catnap.";
+
+"product.21.name" = "Dish";
+"product.21.desc" = "Elegant ceramic bowl, easy to clean.";
+
+"product.22.name" = "Cat House";
+"product.22.desc" = "A cozy space to play, hide, and rest.";
+
+"product.23.name" = "Plant";
+"product.23.desc" = "Safe and friendly decor for curious kittens.";
+
+"product.24.name" = "Wallpaper";
+"product.24.desc" = "Customize your virtual space with unique backgrounds.";
+
+"button.buy" = "Buy";
+"button.return" = "Back";
+
+
+"alert.confirm_title" = "Please Confirm";
+"alert.confirm_message" = "Are you sure you want to purchase this product?";
+"alert.ok" = "Yes, I want it!";
+"alert.cancel" = "Cancel";
+
+
+"welcome.store" = "Welcome to the little shop!";
+
+
+// My Kittens Section
+"mykittens.welcome" = "Welcome to Miaw Mind!";
+"mykittens.description" = "Here you’ll find all the kittens you have adopted. Take care of them and interact with them.";
+"mykittens.baritem" = "My Kittens";
+
+// Games Section
+"games.title" = "Let’s Play!";
+"games.description" = "Here you’ll find a catalog of mini-games. Earn coins by scoring points!";
+"games.baritem" = "Play!";
+
+// Profile Section
+"profile.title" = "My Profile";
+"profile.description" = "Check your game stats like time, accuracy, and scores. You can also adjust app and profile settings here.";
+"profile.baritem" = "Profile";

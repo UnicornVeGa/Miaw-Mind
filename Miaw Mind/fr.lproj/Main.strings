@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Descripción"; ObjectID = "2W7-MW-iwd"; */
+"2W7-MW-iwd.text" = "Descripción";
+
+/* Class = "UIButton"; configuration.title = "Comprar"; ObjectID = "2mS-KS-16J"; */
+"2mS-KS-16J.configuration.title" = "Comprar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2mS-KS-16J"; */
+"2mS-KS-16J.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Nombre Categoría"; ObjectID = "4ll-dX-8mJ"; */
+"4ll-dX-8mJ.text" = "Nombre Categoría";
+
+/* Class = "UITabBarItem"; title = "Mi perfil"; ObjectID = "7B9-Ra-Lth"; */
+"7B9-Ra-Lth.title" = "Mon profil";
+
+/* Class = "UILabel"; text = "En esta sección se encontrará el catálogo de mini juegos disponibles, con los que se podrán ganar monedas a través de puntajes."; ObjectID = "8JD-Tb-BvS"; */
+"8JD-Tb-BvS.text" = "En esta sección se encontrará el catálogo de mini juegos disponibles, con los que se podrán ganar monedas a través de puntajes.";
+
+/* Class = "UITabBarItem"; title = "Mis gatitos"; ObjectID = "Ceb-5K-pb6"; */
+"Ceb-5K-pb6.title" = "Mes chatons";
+
+/* Class = "UILabel"; text = "Nombre del producto"; ObjectID = "DgZ-68-epr"; */
+"DgZ-68-epr.text" = "Nombre del producto";
+
+/* Class = "UITabBarItem"; title = "La Tiendita"; ObjectID = "Pvd-JE-cQP"; */
+"Pvd-JE-cQP.title" = "La boutique";
+
+/* Class = "UILabel"; text = "Mi perfil"; ObjectID = "Ukw-zX-8Bw"; */
+"Ukw-zX-8Bw.text" = "Mon profil";
+
+/* Class = "UILabel"; text = "En esta sección se encontrarán todos los gatitos que ha adoptado el usuario, y podrá cuidarlos e interactuar con ellos."; ObjectID = "VDQ-gR-MWb"; */
+"VDQ-gR-MWb.text" = "En esta sección se encontrarán todos los gatitos que ha adoptado el usuario, y podrá cuidarlos e interactuar con ellos.";
+
+/* Class = "UIButton"; configuration.title = "Regresar"; ObjectID = "WMS-At-XKK"; */
+"WMS-At-XKK.configuration.title" = "Regresar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WMS-At-XKK"; */
+"WMS-At-XKK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Nombre del producto"; ObjectID = "bTN-1i-9Fc"; */
+"bTN-1i-9Fc.text" = "Nombre del producto";
+
+/* Class = "UILabel"; text = "En este espacio el usuario puede consultar las estadísticas de sus partidas, como tiempos, aciertos, y puntajes. Además, podrá realizar configuraciones específicas de la aplicación y de su perfil."; ObjectID = "g4z-E1-f7e"; */
+"g4z-E1-f7e.text" = "En este espacio el usuario puede consultar las estadísticas de sus partidas, como tiempos, aciertos, y puntajes. Además, podrá realizar configuraciones específicas de la aplicación y de su perfil.";
+
+/* Class = "UITabBarItem"; title = "¡Jueguemos!"; ObjectID = "g8A-q9-O5M"; */
+"g8A-q9-O5M.title" = "Jouons!";
+
+/* Class = "UILabel"; text = "¡Juguemos!"; ObjectID = "iDE-P1-Pab"; */
+"iDE-P1-Pab.text" = "Jouons!";
+
+/* Class = "UILabel"; text = "¡Bienvenido a Miaw Mind!"; ObjectID = "nn2-nY-5KH"; */
+"nn2-nY-5KH.text" = "¡Bienvenido a Miaw Mind!";
+
+/* Class = "UILabel"; text = "Nombre de la categoría"; ObjectID = "uGB-X5-z46"; */
+"uGB-X5-z46.text" = "Nombre de la categoría";
+
+/* Class = "UILabel"; text = "¡Bienvenido a la tiendita!"; ObjectID = "vFn-hB-pVV"; */
+"vFn-hB-pVV.text" = "¡Bienvenido a la tiendita!";
+
+/* Class = "UILabel"; text = "$ precio"; ObjectID = "wdz-87-2L4"; */
+"wdz-87-2L4.text" = "$ precio";
+
+/* Class = "UILabel"; text = "$ precio"; ObjectID = "xVm-Pu-cDs"; */
+"xVm-Pu-cDs.text" = "$ precio";
