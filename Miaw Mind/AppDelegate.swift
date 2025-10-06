@@ -14,6 +14,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        UserDefaults.standard.register(defaults: ["OnOffMusicKey": true, "OnOffSoundKey": true, "UserNicknameKey": "UnNickname", "UserGenderKey": 1, "UserEmailKey": "example_email@gmail.com","UserCountryKey":"México"])
+        let _ = InternetMonitor.shared
         return true
     }
 

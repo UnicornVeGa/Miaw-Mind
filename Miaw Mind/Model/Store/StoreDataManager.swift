@@ -9,16 +9,26 @@ import Foundation
 
 class StoreDataManager{
     
+    static let shared = StoreDataManager()
+    
     private var storeCategories: [StoreCategory] = []
     private var storeProducts: [Product] = []
     
     // Este diccionario simula ser un servicio de información de un repositorio remoto
-    let storeCategoriesDictionary: [Int: String] = [
+    /*let storeCategoriesDictionary: [Int: String] = [
         0: NSLocalizedString("category.0", comment: ""),
         1: NSLocalizedString("category.1", comment: ""),
         2: NSLocalizedString("category.2", comment: ""),
         3: NSLocalizedString("category.3", comment: ""),
         4: NSLocalizedString("category.4", comment: "")
+    ]*/
+    
+    let storeCategoriesDictionary: [Int: String] = [
+        0: "Gatitos",
+        1: "Alimento",
+        2: "Juguetes",
+        3: "Salud",
+        4: "Hogar"
     ]
     
     let storeProductsDictionary: [Int: (name: String, description: String, price: Int, categoryId: Int)] = [
@@ -95,6 +105,14 @@ class StoreDataManager{
         23: ("Planta", "Decoración amigable y segura para gatitos.", 70, 4),
         24: ("Wallpaper", "Personaliza el espacio virtual con fondos únicos.", 40, 4)
     ]*/
+    
+    func getProducts() -> [Product] {
+        return storeProducts
+    }
+    
+    func countProducts() -> Int {
+        return storeProducts.count
+    }
 
     
     func fetchCategories(){
@@ -142,5 +160,7 @@ class StoreDataManager{
     func getCategoryProducts(for categoryId: Int) -> [Product]{
         return storeProducts.filter{ $0.category.id == categoryId }
     }
+    
+    
     
 }
